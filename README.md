@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ymelnychenkocom
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Reactjs, Redux, React-Native
-- 📫 How to reach me : yevhenms@gmail.com / instagram.com/y.melnychenko / telegram@ymelnychenko
+- 👋 Hi, my name is Yevhen and I'm a Product Manager
+- 👀 I’m interested in building Micro SaaS products
+- 🌱 My creations: MailyWizard.com, SwiftProduct.io, RateMe.io
+- 📫 How to reach me : yevhenms@gmail.com / linkedin.com/in/yevhen-melnychenko / instagram.com/y.melnychenko / telegram@ymelnychenko
 
 <!---
 ymelnychenkocom/ymelnychenkocom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
